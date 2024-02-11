@@ -83,4 +83,4 @@ _latest update: 21.01.2024_</small>
 [^15]: https://bulbapedia.bulbagarden.net/wiki/Mythical_Pok%C3%A9mon
 [^16]: https://bulbapedia.bulbagarden.net/wiki/Evolution#Evolutionary_families
 [^17]: https://bulbapedia.bulbagarden.net/wiki/Terminology_of_Legendary_and_Mythical_Pok%C3%A9mon
-[^18]: A Pokémon that is not part of an evolution in its original form will have `is_part_of_evolution==False` eventhough its regional form is part of an evolution.
+[^18]: A Pokémon that is not part of an evolution in its original form will have `is_part_of_evolution==False` eventhough its regional form might be part of an evolution.
